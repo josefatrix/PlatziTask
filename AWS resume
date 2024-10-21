@@ -1,0 +1,35 @@
+1. AWS (Amazon Web Services)
+AWS es un proveedor líder de servicios en la nube que ofrece una amplia gama de servicios, desde almacenamiento y procesamiento hasta bases de datos y análisis. Permite a las empresas y desarrolladores desplegar aplicaciones y servicios sin necesidad de gestionar la infraestructura física, lo que reduce costos y aumenta la agilidad.
+
+2. Problemas de Alquilar Servidores Físicos
+Alquilar servidores físicos para ubicarlos en un sótano o garaje presenta varios desafíos, tales como:
+
+Dificultades en el Mantenimiento: Acceder a servidores en espacios reducidos puede complicar el mantenimiento y las actualizaciones.
+Movilidad: Los servidores fijos en un espacio restringido dificultan la movilidad y la reubicación.
+Costos Adicionales: El aumento de la renta y otros costos operativos puede ser significativo.
+Escalabilidad: La falta de flexibilidad para escalar recursos según la demanda es una desventaja importante en comparación con soluciones en la nube.
+3. Computación en la Nube
+La computación en la nube se define como la entrega bajo demanda de servicios de computación a través de internet, permitiendo el acceso a recursos como almacenamiento, bases de datos y aplicaciones sin la necesidad de una infraestructura física local. Los modelos de pago por uso son un rasgo distintivo, lo que significa que los usuarios solo pagan por lo que realmente utilizan.
+
+4. Tipos de Nube
+Nube Pública: Permite a múltiples organizaciones utilizar los mismos recursos de computación, ofreciendo gran flexibilidad y escalabilidad. Ideal para empresas que no requieren un control total sobre su infraestructura.
+Nube Privada: Proporciona recursos dedicados para una única organización, permitiendo un mayor control y personalización, pero a un costo más alto y con menos flexibilidad.
+Nube Híbrida: Combina elementos de nubes públicas y privadas, permitiendo a las empresas mantener control sobre ciertos activos mientras utilizan recursos públicos para otros.
+5. Servicios de Nube
+PaaS (Platform as a Service): Proporciona una plataforma para desarrollar, ejecutar y gestionar aplicaciones sin preocuparse por la infraestructura subyacente. Es ideal para desarrolladores que desean centrarse en el código y la gestión de la aplicación.
+IaaS (Infrastructure as a Service): Ofrece recursos de infraestructura virtualizados, como servidores y almacenamiento. Permite a los usuarios tener control total sobre el sistema operativo y la infraestructura.
+SaaS (Software as a Service): Proporciona aplicaciones accesibles a través de internet. Ejemplos incluyen servicios como Dropbox, que permiten a los usuarios almacenar y compartir archivos sin necesidad de instalar software localmente.
+6. AWS IAM (Identity and Access Management)
+IAM es un servicio de AWS que permite gestionar quién tiene acceso a los recursos en una cuenta de AWS. Es gratuito y está incluido en todas las cuentas de AWS. IAM permite la creación y gestión de usuarios y permisos, asegurando que las políticas de acceso se apliquen de manera adecuada.
+
+7. Características de la Computación en la Nube
+Algunas características importantes de la computación en la nube incluyen:
+
+Costo-efectividad: Permite priorizar gastos operativos sobre gastos de capital, ya que los recursos se pueden ajustar según la demanda.
+Escalabilidad: La capacidad de escalar recursos fácilmente según las necesidades del negocio.
+Elasticidad: Permite ajustar los recursos en tiempo real, lo que es especialmente útil para manejar picos de carga.
+Accesibilidad: Los recursos en la nube pueden ser accesibles desde cualquier lugar con conexión a internet.
+Conclusión
+La computación en la nube y servicios como AWS han transformado la manera en que las organizaciones gestionan su infraestructura y aplicaciones. Ofrecen flexibilidad, escalabilidad y eficiencia en costos, lo que permite a las empresas centrarse más en su negocio principal en lugar de preocuparse por la gestión de servidores físicos y la infraestructura subyacente.
+
+Si necesitas más detalles sobre algún aspecto específico o si hay algún tema adicional que te gustaría explorar, ¡házmelo saber!
